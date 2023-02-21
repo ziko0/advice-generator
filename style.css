@@ -111,3 +111,10 @@ hr{
     border-radius: 12px;
     color: var(--light-cyan);
 }
+
+@media (max-width: 568px){
+    .container{
+        width: 342px;
+        height: 315px;
+    }
+}
